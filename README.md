@@ -21,7 +21,7 @@ Now you package will work as it should.
 	It will return string having error message when an error occur
     And return dictionary having output on successful execution
  
-Output can checked with simple if statement :
+Output can checked with simple conditional statement :
 ```
 if output is str :
 	print(output)
