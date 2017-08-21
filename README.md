@@ -1,6 +1,6 @@
 # BuiltWith
 
-Built With is a [pyhton package](https://pypi.python.org/pypi/builtwith/1.3.2) which detects differnt types technology used by the web site like (javascript, server, blog , cms, etc.). And helps in reverse engineering.
+Built With is a [pyhton package](https://pypi.python.org/pypi/builtwith/1.3.2) which detects differnt types technology used by a web application like javascript, server, blog or cms. And helps in reverse engineering.
 
  * Home Page : [builtwith](https://bitbucket.org/richardpenman/builtwith)
  * Author: [Richard Penman](richard@webscraping.com)
