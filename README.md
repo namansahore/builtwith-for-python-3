@@ -13,7 +13,7 @@ Built With is a [pyhton package](https://pypi.python.org/pypi/builtwith/1.3.2) w
 
 ### Fix:
 
-[Download](https://pypi.python.org/pypi/builtwith/1.3.2) builtwith package and replace or rewrite it's __ init__ file with above code.
+[Download](https://pypi.python.org/pypi/builtwith/1.3.2) builtwith package and replace or rewrite it's __ init__.py file with above code.
 This code behave in slightly different manner. 
 
 Now you package will work as it should.
